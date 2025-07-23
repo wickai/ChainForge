@@ -181,3 +181,6 @@ If you use ChainForge for research purposes, whether by building upon the source
 # License
 
 ChainForge is released under the MIT License.
+
+
+Test GitHub Actions workflow
